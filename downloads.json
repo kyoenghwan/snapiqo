@@ -1,0 +1,21 @@
+{
+  "version": "0.6.0",
+  "build": "6",
+  "date": "2026-11-16",
+  "preview": false,
+  "mac": {
+    "file": "SNAPIQO-0.6.0.dmg",
+    "bytes": 131353558,
+    "sha256": "720cbcfe1c38ae27411cd88b4d2cf0aaab9ca9ca56744c4c8755891623f199c8",
+    "url": "https://github.com/kyoenghwan/snapiqo/releases/download/v0.6.0/SNAPIQO-0.6.0.dmg",
+    "minOs": "macOS 15",
+    "arch": "Apple Silicon"
+  },
+  "windows": null,
+  "extension": {
+    "file": "SNAPIQO-web-capture-0.6.0.zip",
+    "bytes": 62779,
+    "sha256": "9fc325e1e7edb318275b0ca4e18ed3a44a7361b9baa5356d0cda4823281876b4",
+    "url": "https://github.com/kyoenghwan/snapiqo/releases/download/v0.6.0/SNAPIQO-web-capture-0.6.0.zip"
+  }
+}
