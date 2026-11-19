@@ -2,7 +2,7 @@
 
 화면을 캡처하고 글자·버튼을 레이어로 고친 뒤, 원본·수정본·바뀐 내용을 AI에게 넘기는 로컬 우선 데스크톱 앱입니다. 캡처·글자 인식·분석은 모두 사용자의 컴퓨터 안에서 합니다.
 
-- 내려받기 페이지: https://kyoenghwan.github.io/snapiqo/
+- 내려받기 페이지: https://snapiqo.mincool.dev/
 - 설치 파일: [Releases](https://github.com/kyoenghwan/snapiqo/releases)
 
 이 저장소에는 내려받기 페이지와 설치 파일만 있습니다. 소스 코드는 공개하지 않습니다.
